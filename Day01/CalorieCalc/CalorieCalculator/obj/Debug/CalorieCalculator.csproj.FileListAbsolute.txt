@@ -1,0 +1,8 @@
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\bin\Debug\CalorieCalculator.exe.config
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\bin\Debug\CalorieCalculator.exe
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\bin\Debug\CalorieCalculator.pdb
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\obj\Debug\CalorieCalculator.csproj.AssemblyReference.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\obj\Debug\CalorieCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\obj\Debug\CalorieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\obj\Debug\CalorieCalculator.exe
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day01\CalorieCalc\CalorieCalculator\obj\Debug\CalorieCalculator.pdb

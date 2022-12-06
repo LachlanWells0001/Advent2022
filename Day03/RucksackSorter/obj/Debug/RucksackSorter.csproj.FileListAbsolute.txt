@@ -1,0 +1,8 @@
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\bin\Debug\RucksackSorter.exe.config
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\bin\Debug\RucksackSorter.exe
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\bin\Debug\RucksackSorter.pdb
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\obj\Debug\RucksackSorter.csproj.AssemblyReference.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\obj\Debug\RucksackSorter.csproj.SuggestedBindingRedirects.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\obj\Debug\RucksackSorter.csproj.CoreCompileInputs.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\obj\Debug\RucksackSorter.exe
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day03\RucksackSorter\obj\Debug\RucksackSorter.pdb

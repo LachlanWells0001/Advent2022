@@ -1,0 +1,8 @@
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\bin\Debug\CrateMover.exe.config
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\bin\Debug\CrateMover.exe
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\bin\Debug\CrateMover.pdb
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\obj\Debug\CrateMover.csproj.AssemblyReference.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\obj\Debug\CrateMover.csproj.SuggestedBindingRedirects.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\obj\Debug\CrateMover.csproj.CoreCompileInputs.cache
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\obj\Debug\CrateMover.exe
+C:\Users\VexingThoughts\source\repos\LachlanWells0001\Advent2022\Day05\CrateMover\obj\Debug\CrateMover.pdb
